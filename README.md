@@ -6,7 +6,7 @@
 <a href="https://twitter.com/CabaSaanti"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/santiago-caballero-82aa241a1/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
   </p>
-<p align='center'> 👋​Hola a todo/as, mi nombre es Santiago Caballero, de Buenos Aires, Argentina, y Full Stack Developer🧑‍💻. Me considero una persona autodidacta, resiliente, competitiva,  y con mucha actitud positiva. Tengo muchas ganas de aprender, y crecer.
+<p align='center'> 👋​Hola a todo/as, mi nombre es Santiago Caballero, de Buenos Aires, Argentina, y soy Full Stack Developer🧑‍💻. Me considero una persona autodidacta, resiliente, competitiva,  y con mucha actitud positiva. Tengo muchas ganas de aprender, y crecer.
  </p>
 
 <div>
