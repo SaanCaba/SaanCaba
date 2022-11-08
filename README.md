@@ -10,7 +10,11 @@
 Me encuentro en búsqueda de mi primer oportunidad laboral en el mercado tech, mis
 estudios fueron realizados en el BootCamp de SoyHenry. </p>
 
-### Tecnologías: Javascript, React, Redux, Node, Express, postgreSQL, HTML, CSS.
+<div>
+<p>Tecnologías: </p>
+<img height="30" src= './images/logo-javascript-2.png'>
+<img height="30" src= './images/react.png'>
+</div>
 
 
 <div>
