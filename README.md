@@ -1,7 +1,7 @@
 
 ![BANNER](banner.gif)
 
-<img src='https://user-images.githubusercontent.com/105526822/193701083-083cacbc-dad0-48ac-ab28-91c3fb3b51dd.jpg' width='200'>
+<!-- <img src='https://user-images.githubusercontent.com/105526822/193701083-083cacbc-dad0-48ac-ab28-91c3fb3b51dd.jpg' width='200'> -->
 <p align='center'>
 <a href="https://twitter.com/CabaSaanti"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/santiago-caballero-82aa241a1/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
