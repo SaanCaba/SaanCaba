@@ -9,6 +9,6 @@ estudios fueron realizados en el BootCamp de SoyHenry.*
 ### Tecnologías: Javascript, React, Redux, Node, Express, postgreSQL, HTML, CSS.
 
 
-
+<h4>HOLAAA</h4>
 <br/>
-<a href='https://www.linkedin.com/in/santiago-caballero-82aa241a1/'><img src='https://user-images.githubusercontent.com/105526822/193701277-c2f35b10-3637-4af7-8613-0e973b7a0265.png' width='120' > </a>
+<a href='https://www.linkedin.com/in/santiago-caballero-82aa241a1/'><img src='https://user-images.githubusercontent.com/105526822/193701277-c2f35b10-3637-4af7-8613-0e973b7a0265.png' width='120' target='_blank' > </a>
