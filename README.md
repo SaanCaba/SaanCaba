@@ -10,10 +10,19 @@
 Me encuentro en búsqueda de mi primer oportunidad laboral en el mercado tech, mis
 estudios fueron realizados en el BootCamp de SoyHenry. </p>
 
-<div background='white' >
+<div>
 <p>Tecnologías: </p>
 <img height="40" src= './images/logo-javascript-2.png'>
 <img height="40" src= './images/react.png'>
+<img height="40" src='./images/Redux (1).png' >
+<img height="40" src='./images/nodejs.png' >
+<img height="40" src='./images/st_small_507x507-pad_600x600_f8f8f8.u2-removebg-preview.png' >
+<img height="40" src='./images/postgresql-logo.png' >
+<img height="40" src='./images/mongodb.png' >
+<img height="40" src='./images/htmlpng (1).png' >
+<img height="40" src='./images/4180e6ed02d69c8388b82528fe8d4d03-PhotoRoom-removebg-preview.png' >
+<img height="40" src='./images/Bootstrap.png' >
+
 </div>
 
 
