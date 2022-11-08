@@ -1,5 +1,5 @@
 
-![BANNER](Bordered Sunflower Photo Web Banner.gif)
+![BANNER](banner.gif)
 
 <img src='https://user-images.githubusercontent.com/105526822/193701083-083cacbc-dad0-48ac-ab28-91c3fb3b51dd.jpg' width='200'>
 <p align='center'>
