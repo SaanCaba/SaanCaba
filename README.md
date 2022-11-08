@@ -6,12 +6,11 @@
 <a href="https://twitter.com/CabaSaanti"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/santiago-caballero-82aa241a1/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
   </p>
-<p align='center'>Hola a todo/as, mi nombre es Santiago Caballero, soy de Buenos Aires, Argentina.
-Me encuentro en búsqueda de mi primer oportunidad laboral en el mercado tech, mis
-estudios fueron realizados en el BootCamp de SoyHenry. </p>
+<p align='center'> 👋​Hola a todo/as, mi nombre es Santiago Caballero, de Buenos Aires, Argentina, y soy Desarrollador Web Full Stack 🧑‍💻. Me considero una persona autodidacta, resiliente, competitiva,  y con mucha actitud positiva. Tengo muchas ganas de aprender, y crecer.
+ </p>
 
 <div>
-<p>Tecnologías: </p>
+<p>🤖Tecnologías: </p>
 <img height="40" src= './images/logo-javascript-2.png'>
 <img height="40" src= './images/react.png'>
 <img height="40" src='./images/Redux (1).png' >
@@ -31,10 +30,10 @@ estudios fueron realizados en el BootCamp de SoyHenry. </p>
 Mi contacto:
   </p>
   <p>
-Mail: saantyc12.caballero@gmail.com
+📩​Mail: saantyc12.caballero@gmail.com
   </p>
   <p>
-Portfolio: https://portfolio-sc.vercel.app/
+💻​Portfolio: https://portfolio-sc.vercel.app/
      </p>
 </div>
 <br/>
