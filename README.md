@@ -10,7 +10,7 @@
 Me encuentro en búsqueda de mi primer oportunidad laboral en el mercado tech, mis
 estudios fueron realizados en el BootCamp de SoyHenry. </p>
 
-<div>
+<div background='white' >
 <p>Tecnologías: </p>
 <img height="40" src= './images/logo-javascript-2.png'>
 <img height="40" src= './images/react.png'>
