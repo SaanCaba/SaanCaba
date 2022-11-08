@@ -12,8 +12,8 @@ estudios fueron realizados en el BootCamp de SoyHenry. </p>
 
 <div>
 <p>Tecnologías: </p>
-<img height="30" src= './images/logo-javascript-2.png'>
-<img height="30" src= './images/react.png'>
+<img height="40" src= './images/logo-javascript-2.png'>
+<img height="40" src= './images/react.png'>
 </div>
 
 
