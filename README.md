@@ -33,7 +33,7 @@ Mi contacto:
 📩​Mail: saantyc12.caballero@gmail.com
   </p>
   <p>
-💻​Portfolio: https://portfolio-sc.vercel.app/
+💻​Portfolio: https://new-portfolio-chi-one.vercel.app/
      </p>
 </div>
 <br/>
